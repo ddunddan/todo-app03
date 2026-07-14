@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: https://github.com/ddunddan/todo-app99.git
+    repoURL: https://github.com/ddunddan/todo-app03.git
     targetRevision: HEAD
     path: .
     kustomize:
